@@ -70,7 +70,7 @@ const observer = new IntersectionObserver((entries) => {
     });
 }, observerOptions);
 
-document.querySelectorAll('.kinetic-title, .about-visual, .project-card, .contact-layout').forEach(el => {
+document.querySelectorAll('.kinetic-title, .about-visual, .project-card, .contact-layout, .journey-item, .cert-card, .info-card, .skill-pill').forEach(el => {
     el.style.opacity = "0";
     el.style.transform = "translateY(50px) scale(0.9)";
     el.style.transition = "all 0.8s cubic-bezier(0.175, 0.885, 0.32, 1.275)"; // Bouncy effect
