@@ -1,9 +1,39 @@
-# My Portfolio
+👩‍💻 About
+Personal portfolio website of Stephy Ann Biju, a B.Tech Computer Science Engineer at Amal Jyothi College of Engineering, specializing in AI & ML, DevOps, Cloud Computing.
 
-A kinetic typography and artistic portfolio website built with HTML, CSS, and JavaScript.
+✨ Features
 
-## Features
-- Kinetic Typography Hero Section
-- Smooth Scroll Animations
-- Dark Mode Aesthetic
-- Responsive Design
+Responsive design — works on all devices
+Smooth scroll animations
+Hero section with role & CTA
+Professional Experience timeline
+Projects showcase
+Certifications & Achievements
+Contact form
+Fast global delivery via Vercel CDN
+
+
+🛠️ Tech Stack
+LayerTechnologyStructureHTML5StylingCSS3InteractivityVanilla JavaScriptDeploymentVercelVersion ControlGit & GitHub
+
+📁 Project Structure
+Portfolio/
+├── index.html      ← Main page
+├── style.css       ← All styles
+├── script.js       ← Animations & interactions
+└── README.md       ← You're here!
+
+🚀 Deployment
+This site is deployed on Vercel with automatic CI/CD.
+Every push to the main branch auto-deploys to production in ~30 seconds.
+bash# To update the live site:
+git add .
+git commit -m "your change"
+git push
+# → Live at stephyannbiju.vercel.app instantly ✅
+
+📬 Contact
+PlatformLink🌐 Portfoliostephyannbiju.vercel.app📧 Emailstephyannbiju29@gmail.com💼 LinkedInStephy Ann Biju🐙 GitHub@Stephyaan📍 LocationKanjirappally, Kerala, India
+
+📄 License
+© 2026 Stephy Ann Biju. All rights reserved.
